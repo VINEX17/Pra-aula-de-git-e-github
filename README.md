@@ -1,2 +1,2 @@
 # Pra aula de git e github
- pra aula para aprender git e github
+ pras aulas para aprender git e github
